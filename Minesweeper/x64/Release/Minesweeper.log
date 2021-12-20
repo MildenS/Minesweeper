@@ -1,0 +1,10 @@
+﻿  main.cpp
+F:\C++\SSU\Minesweeper\Minesweeper\main.cpp(95,44): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+F:\C++\SSU\Minesweeper\Minesweeper\main.cpp(126,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+F:\C++\SSU\Minesweeper\Minesweeper\main.cpp(126,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  Создание кода завершено
+  0 of 82 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Minesweeper.vcxproj -> F:\C++\SSU\Minesweeper\x64\Release\Minesweeper.exe
